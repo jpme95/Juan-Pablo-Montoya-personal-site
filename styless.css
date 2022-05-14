@@ -24,12 +24,10 @@ h2 {
 h3 {
   color: #66BFBF;
   font-family: 'Oxygen', sans-serif;
-  text-align: justify;
 }
 
 p {
   line-height: 2;
-  text-align: justify;
 }
 
 hr {
@@ -75,6 +73,9 @@ a:hover {
   margin: auto;
 }
 
+.hobbiess-cent {
+  text-align: justify;
+}
 .bottom-cloud {
   position: absolute;
   left: 230px;
@@ -109,8 +110,7 @@ a:hover {
 .contact-me {
   width: 40%;
   margin: 40px auto 60px;
-  text-align: justify;
-}
+  }
 
 .copyright {
   color: #EAF6F6;
