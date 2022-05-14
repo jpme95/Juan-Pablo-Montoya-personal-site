@@ -24,10 +24,12 @@ h2 {
 h3 {
   color: #66BFBF;
   font-family: 'Oxygen', sans-serif;
+  text-align: justify
 }
 
 p {
   line-height: 2;
+  text-align: justify
 }
 
 hr {
