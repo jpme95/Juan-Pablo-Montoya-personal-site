@@ -10,7 +10,7 @@ h1 {
   color: #66BFBF;
   font-size: 4.68rem;
   line-height: 2;
-  margin: 50px auto 0 auto;
+  margin: 50px auto 10px auto;
   font-family: 'Architects Daughter', cursive;
 }
 
@@ -25,6 +25,15 @@ h3 {
   color: #66BFBF;
   font-family: 'Oxygen', sans-serif;
 }
+
+h4 {
+  color: #66BFBF;
+  font-family: 'Oxygen', sans-serif;
+    font-weight: normal;
+    margin: 10px auto 10px auto;
+    padding: 10px auto 100px auto;
+}
+
 
 p {
   line-height: 2;
@@ -51,11 +60,16 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 100px;
+  padding-top: 75px;
+}
+.top-contact{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 25px 0;
 }
 
 .middle-container {
-  margin: 100px 0;
+  margin: 75px 0;
 }
 
 .bottom-container {
